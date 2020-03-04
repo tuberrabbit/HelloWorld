@@ -1,6 +1,6 @@
 {
   "name": "@frontend/hello-world",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HelloWorld ==========",
   "main": "index.js",
   "dependencies": {},
