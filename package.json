@@ -4,9 +4,11 @@
   "description": "HelloWorld ==========",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "selenium-webdriver": "4.0.0-alpha.7"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \\\"Error: no src specified\\\" && exit 1"
   },
   "repository": {
     "type": "git",
