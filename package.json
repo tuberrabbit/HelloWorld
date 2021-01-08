@@ -3,12 +3,15 @@
   "version": "1.0.1",
   "description": "HelloWorld ==========",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "qs": "6.9.4"
+  },
   "devDependencies": {
     "selenium-webdriver": "4.0.0-alpha.7"
   },
   "scripts": {
-    "test": "echo \\\"Error: no src specified\\\" && exit 1"
+    "start": "node src/app.js",
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
   "repository": {
     "type": "git",
